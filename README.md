@@ -1,2 +1,2 @@
 # Git_GitHub_Xcode
-GIT repositories and GitHub, XCode integration (clone, commit, push)
+GIT repositories and GitHub, Xcode integration (clone, commit, push)
